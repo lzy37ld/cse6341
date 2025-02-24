@@ -1,0 +1,5 @@
+int x = 36;
+int y = 46;
+int z = x - y + 10;
+int c = 13 / z;
+

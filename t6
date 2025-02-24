@@ -1,0 +1,3 @@
+float x;
+float y = 3.5+4.4+readfloat ;
+float z = y + x;
